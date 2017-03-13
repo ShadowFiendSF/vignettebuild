@@ -1,0 +1,10 @@
+Package: vignettebuild
+Title: Rreproducible example for vignette-building.
+Version: 0.0.0.9000
+Authors@R: 'Ian Lyttle <ian.lyttle@schneider-electric.com> [aut, cre]'
+Description: The purpose of this package is to show how it is possible that a
+  vignette gets build despite being included in `.Rbuildignore`.
+Depends: R (>= 3.3.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
