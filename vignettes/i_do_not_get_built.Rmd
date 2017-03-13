@@ -1,0 +1,8 @@
+---
+title: "I do not get built"
+author: "Ian Lyttle"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+---
+
+If I take out the yaml for `vignette:`, I avoid getting built as long as I am in `.Rbuildignore`.
