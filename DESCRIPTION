@@ -1,6 +1,6 @@
 Package: vignettebuild
 Title: Rreproducible Example for Vignette-Building
-Version: 0.0.9000
+Version: 0.0.9
 Authors@R: c(
     person("Ian", "Lyttle", , "ian.lyttle@schneider-electric.com", c("aut", "cre"))
   )
